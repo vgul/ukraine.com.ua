@@ -1,6 +1,6 @@
 
 # ukraine.sh 
-IP address setter for hosting company [ ukraine.com.ua ] ( http://ukraine.com.ua )
+IP address setter for hosting company [ukraine.com.ua] (https://ukraine.com.ua)
 
 How to run
 
