@@ -52,6 +52,6 @@ How to cron
 
 
 
-See also [konteh] (https://github.com/vgul/kontheh)
+See also [konteh] (https://github.com/vgul/konteh)
 
 Enjoy :)
