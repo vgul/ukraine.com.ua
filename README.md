@@ -39,7 +39,19 @@ Example
       "type": "A",
       "priority": "",
       "data": "127.0.0.52"
-}
+    }
 
+
+How to cron
+
+    $ cat /etc/cron.d/ukraine.crontab
+    SHELL=/bin/bash
+    PATH=/usr/local/bin:/usr/bin:/bin
+
+    2,17,32,47 * * * * root /bin/sleep $((RANDOM \\% 300 )) && konteh.sh -i | ukraine.sh --check --silent
+
+
+
+See also [konteh] (https://github.com/vgul/kontheh)
 
 Enjoy :)
